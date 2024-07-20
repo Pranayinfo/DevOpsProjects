@@ -17,7 +17,7 @@ This project demonstrates the deployment of a 3-tier application consisting of a
 This project involves deploying a microservices application on Google Cloud Platform (GCP) using Docker-compose. The deployment includes configuring an nginx proxy, PostgreSQL, Redis, and SSL Certbot for secure web services. The GCP infrastructure components are managed efficiently to ensure secure deployment and high performance.
 
 - **Technologies Used**: Google Cloud Platform (GCP), Docker-compose, nginx, PostgreSQL, Redis, SSL Certbot
-- **Repository**: [Microservices on GCP with Docker-compose](https://github.com/Pranayinfo/microservices-gcp-docker-compose)
+- **Repository**: [Microservices on GCP with Docker-compose](https://github.com/Pranayinfo/Docker-deployment/)
 
 ### 3. Jenkins CI/CD Deployment on AWS EKS using Terraform (IAC)
 **Description**: 
@@ -31,7 +31,7 @@ In this project, I developed and automated the setup of an Amazon EKS cluster an
 This project showcases the implementation of GitLab CI/CD with Docker on AWS for a Node.js and React.js application. The setup automates build, deployment, and scaling processes to enhance development efficiency and application reliability.
 
 - **Technologies Used**: GitLab CI/CD, Docker, AWS, Node.js, React.js
-- **Repository**: [Application Deployment with GitLab CI/CD on AWS](https://github.com/Pranayinfo/gitlab-ci-cd-aws)
+- **Repository**: [Application Deployment with GitLab CI/CD on AWS](https://gitlab.com/Pranaytecho/Nodejs-react-app)
   
 ### 5. Hesk Help Desk Deployment with Docker-compose
 **Description**: 
